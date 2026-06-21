@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # SalonOS — Enterprise Salon Operating System
 
 SalonOS is an enterprise-grade, multi-tenant Salon Operating System designed to compete with luxury salon software like Fresha, Vagaro, and Boulevard. It expands a simple chatbot qualification panel into a full-scale backend and front-office suite. The application maintains an Obsidian-Black (`#070709`) and Champagne-Gold (`#D6B885`) aesthetic.
